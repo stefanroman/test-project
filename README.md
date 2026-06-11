@@ -1,2 +1,2 @@
 # test-project
-A test repo for multiple tests
+This is a test repo for multiple tests and apps created with GitHub Copilot.
